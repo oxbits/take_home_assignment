@@ -72,8 +72,6 @@ http://0.0.0.0:8000/admin/
 
 - The requirements were clear enough to interpret this implementation.
 
-- Time estimate of 1.5 hours per each: understanding, designing, coding, testing
-
 - I started the project working on an auth model, but quickly decided not to implement auth do to time contraints.  If I had more time I would implement auth.
 
 - With more time I would work on scaling the app better for huge numbers of students, teachers, and course.  The current admin UI (drop downs, etc.) would not handle large numbers well.
